@@ -1,0 +1,14 @@
+C:\Flash Content\Route\Route\C#\Assignments\Session_1_Demo\bin\Debug\net9.0\Session_1_Demo.exe
+C:\Flash Content\Route\Route\C#\Assignments\Session_1_Demo\bin\Debug\net9.0\Session_1_Demo.deps.json
+C:\Flash Content\Route\Route\C#\Assignments\Session_1_Demo\bin\Debug\net9.0\Session_1_Demo.runtimeconfig.json
+C:\Flash Content\Route\Route\C#\Assignments\Session_1_Demo\bin\Debug\net9.0\Session_1_Demo.dll
+C:\Flash Content\Route\Route\C#\Assignments\Session_1_Demo\bin\Debug\net9.0\Session_1_Demo.pdb
+C:\Flash Content\Route\Route\C#\Assignments\Session_1_Demo\obj\Debug\net9.0\Session_1_Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Flash Content\Route\Route\C#\Assignments\Session_1_Demo\obj\Debug\net9.0\Session_1_Demo.AssemblyInfoInputs.cache
+C:\Flash Content\Route\Route\C#\Assignments\Session_1_Demo\obj\Debug\net9.0\Session_1_Demo.AssemblyInfo.cs
+C:\Flash Content\Route\Route\C#\Assignments\Session_1_Demo\obj\Debug\net9.0\Session_1_Demo.csproj.CoreCompileInputs.cache
+C:\Flash Content\Route\Route\C#\Assignments\Session_1_Demo\obj\Debug\net9.0\Session_1_Demo.dll
+C:\Flash Content\Route\Route\C#\Assignments\Session_1_Demo\obj\Debug\net9.0\refint\Session_1_Demo.dll
+C:\Flash Content\Route\Route\C#\Assignments\Session_1_Demo\obj\Debug\net9.0\Session_1_Demo.pdb
+C:\Flash Content\Route\Route\C#\Assignments\Session_1_Demo\obj\Debug\net9.0\Session_1_Demo.genruntimeconfig.cache
+C:\Flash Content\Route\Route\C#\Assignments\Session_1_Demo\obj\Debug\net9.0\ref\Session_1_Demo.dll
