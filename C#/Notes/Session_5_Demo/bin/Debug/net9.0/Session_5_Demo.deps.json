@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Session_5_Demo/1.0.0": {
+        "runtime": {
+          "Session_5_Demo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Session_5_Demo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
