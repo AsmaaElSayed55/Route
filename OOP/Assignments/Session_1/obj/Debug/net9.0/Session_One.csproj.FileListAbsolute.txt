@@ -1,0 +1,11 @@
+C:\Flash Content\Route\Route\OOP\Assignments\Session_1\bin\Debug\net9.0\Session_One.deps.json
+C:\Flash Content\Route\Route\OOP\Assignments\Session_1\bin\Debug\net9.0\Session_One.dll
+C:\Flash Content\Route\Route\OOP\Assignments\Session_1\bin\Debug\net9.0\Session_One.pdb
+C:\Flash Content\Route\Route\OOP\Assignments\Session_1\obj\Debug\net9.0\Session_One.GeneratedMSBuildEditorConfig.editorconfig
+C:\Flash Content\Route\Route\OOP\Assignments\Session_1\obj\Debug\net9.0\Session_One.AssemblyInfoInputs.cache
+C:\Flash Content\Route\Route\OOP\Assignments\Session_1\obj\Debug\net9.0\Session_One.AssemblyInfo.cs
+C:\Flash Content\Route\Route\OOP\Assignments\Session_1\obj\Debug\net9.0\Session_One.csproj.CoreCompileInputs.cache
+C:\Flash Content\Route\Route\OOP\Assignments\Session_1\obj\Debug\net9.0\Session_One.dll
+C:\Flash Content\Route\Route\OOP\Assignments\Session_1\obj\Debug\net9.0\refint\Session_One.dll
+C:\Flash Content\Route\Route\OOP\Assignments\Session_1\obj\Debug\net9.0\Session_One.pdb
+C:\Flash Content\Route\Route\OOP\Assignments\Session_1\obj\Debug\net9.0\ref\Session_One.dll

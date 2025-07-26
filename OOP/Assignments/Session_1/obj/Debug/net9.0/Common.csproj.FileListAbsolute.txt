@@ -1,0 +1,11 @@
+C:\Flash Content\Route\Route\OOP\Assignments\Session_1\bin\Debug\net9.0\Common.deps.json
+C:\Flash Content\Route\Route\OOP\Assignments\Session_1\bin\Debug\net9.0\Common.dll
+C:\Flash Content\Route\Route\OOP\Assignments\Session_1\bin\Debug\net9.0\Common.pdb
+C:\Flash Content\Route\Route\OOP\Assignments\Session_1\obj\Debug\net9.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Flash Content\Route\Route\OOP\Assignments\Session_1\obj\Debug\net9.0\Common.AssemblyInfoInputs.cache
+C:\Flash Content\Route\Route\OOP\Assignments\Session_1\obj\Debug\net9.0\Common.AssemblyInfo.cs
+C:\Flash Content\Route\Route\OOP\Assignments\Session_1\obj\Debug\net9.0\Common.csproj.CoreCompileInputs.cache
+C:\Flash Content\Route\Route\OOP\Assignments\Session_1\obj\Debug\net9.0\Common.dll
+C:\Flash Content\Route\Route\OOP\Assignments\Session_1\obj\Debug\net9.0\refint\Common.dll
+C:\Flash Content\Route\Route\OOP\Assignments\Session_1\obj\Debug\net9.0\Common.pdb
+C:\Flash Content\Route\Route\OOP\Assignments\Session_1\obj\Debug\net9.0\ref\Common.dll
