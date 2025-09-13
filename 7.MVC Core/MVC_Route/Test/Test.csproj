@@ -4,4 +4,11 @@
     <TargetFramework>net9.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="WWWroot\CSS\" />
+    <Folder Include="WWWroot\Images\" />
+    <Folder Include="WWWroot\JS\" />
+    <Folder Include="WWWroot\Lip\" />
+  </ItemGroup>
+
 </Project>

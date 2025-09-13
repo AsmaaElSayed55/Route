@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\D\\Route\\7.MVC Core\\MVC_Route\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4C38CE8D-C553-4203-8626-4600C865B8AC}|Test\\Test.csproj|c:\\d\\route\\7.mvc core\\mvc_route\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C38CE8D-C553-4203-8626-4600C865B8AC}|Test\\Test.csproj|solutionrelative:test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4C38CE8D-C553-4203-8626-4600C865B8AC}|Test\\Test.csproj|c:\\d\\route\\7.mvc core\\mvc_route\\test\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C38CE8D-C553-4203-8626-4600C865B8AC}|Test\\Test.csproj|solutionrelative:test\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C38CE8D-C553-4203-8626-4600C865B8AC}|Test\\Test.csproj|c:\\d\\route\\7.mvc core\\mvc_route\\test\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C38CE8D-C553-4203-8626-4600C865B8AC}|Test\\Test.csproj|solutionrelative:test\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C38CE8D-C553-4203-8626-4600C865B8AC}|Test\\Test.csproj|c:\\d\\route\\7.mvc core\\mvc_route\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C38CE8D-C553-4203-8626-4600C865B8AC}|Test\\Test.csproj|solutionrelative:test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4C38CE8D-C553-4203-8626-4600C865B8AC}|Test\\Test.csproj|c:\\d\\route\\7.mvc core\\mvc_route\\test\\test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -39,31 +43,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\D\\Route\\7.MVC Core\\MVC_Route\\Test\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "Test\\Models\\Movie.cs",
+              "ToolTip": "C:\\D\\Route\\7.MVC Core\\MVC_Route\\Test\\Models\\Movie.cs",
+              "RelativeToolTip": "Test\\Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T00:31:05.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "MoviesController.cs",
               "DocumentMoniker": "C:\\D\\Route\\7.MVC Core\\MVC_Route\\Test\\Controllers\\MoviesController.cs",
               "RelativeDocumentMoniker": "Test\\Controllers\\MoviesController.cs",
               "ToolTip": "C:\\D\\Route\\7.MVC Core\\MVC_Route\\Test\\Controllers\\MoviesController.cs",
               "RelativeToolTip": "Test\\Controllers\\MoviesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwC0AAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T20:51:18.89Z"
+              "WhenOpened": "2025-09-10T20:51:18.89Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\D\\Route\\7.MVC Core\\MVC_Route\\Test\\Program.cs",
               "RelativeDocumentMoniker": "Test\\Program.cs",
               "ToolTip": "C:\\D\\Route\\7.MVC Core\\MVC_Route\\Test\\Program.cs",
               "RelativeToolTip": "Test\\Program.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAQwDYAAABLAAAAAAAAAA==",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAswDUAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-09T18:21:41.547Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Test.csproj",
               "DocumentMoniker": "C:\\D\\Route\\7.MVC Core\\MVC_Route\\Test\\Test.csproj",
               "RelativeDocumentMoniker": "Test\\Test.csproj",
@@ -75,7 +93,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Test",
               "DocumentMoniker": "C:\\D\\Route\\7.MVC Core\\MVC_Route\\Test\\Test.csproj",
               "RelativeDocumentMoniker": "Test\\Test.csproj",
@@ -86,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\D\\Route\\7.MVC Core\\MVC_Route\\Test\\appsettings.Development.json",
               "RelativeDocumentMoniker": "Test\\appsettings.Development.json",
@@ -98,7 +116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\D\\Route\\7.MVC Core\\MVC_Route\\Test\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Test\\Properties\\launchSettings.json",
