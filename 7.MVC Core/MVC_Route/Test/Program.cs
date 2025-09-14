@@ -51,8 +51,12 @@ namespace Test
             //    await context.Response.WriteAsync($"Hello:{context.Request.RouteValues["name"]}");
             //});
 
-            app.MapControllerRoute(name: "Default", pattern: "{controller=Movies}/{action=Index}/{Id:regex(^\\d{{2}}$)?}"
-                //,defaults:new { action = "Index", controller = "Movies" }
+            app.UseStaticFiles();
+
+            app.MapControllerRoute(
+                name: "Default", 
+                pattern: "{controller}/{action}/{Id:int?}",
+                defaults:new { action = "Index", controller = "Home" }
                 );
 
             #endregion

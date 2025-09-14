@@ -1,0 +1,10 @@
+wwwroot\Lip\bootstrap\css\bootstrap.css
+wwwroot\Lip\bootstrap\css\bootstrap.min.css
+wwwroot\Lip\bootstrap\js\bootstrap.bundle.js
+wwwroot\Lip\bootstrap\js\bootstrap.bundle.min.js
+wwwroot\Lip\bootstrap\js\bootstrap.min.js
+C:\D\Route\7.MVC Core\MVC_Route\Test\wwwroot\Lip\bootstrap\css\bootstrap.css
+C:\D\Route\7.MVC Core\MVC_Route\Test\wwwroot\Lip\bootstrap\css\bootstrap.min.css
+C:\D\Route\7.MVC Core\MVC_Route\Test\wwwroot\Lip\bootstrap\js\bootstrap.bundle.js
+C:\D\Route\7.MVC Core\MVC_Route\Test\wwwroot\Lip\bootstrap\js\bootstrap.bundle.min.js
+C:\D\Route\7.MVC Core\MVC_Route\Test\wwwroot\Lip\bootstrap\js\bootstrap.min.js
