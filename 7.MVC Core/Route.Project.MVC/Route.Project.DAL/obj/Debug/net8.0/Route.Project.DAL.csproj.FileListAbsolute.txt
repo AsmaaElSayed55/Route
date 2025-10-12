@@ -1,0 +1,13 @@
+C:\D\Route\7.MVC Core\Route.Project.MVC\Route.Project.DAL\bin\Debug\net8.0\Route.Project.DAL.deps.json
+C:\D\Route\7.MVC Core\Route.Project.MVC\Route.Project.DAL\bin\Debug\net8.0\Route.Project.DAL.dll
+C:\D\Route\7.MVC Core\Route.Project.MVC\Route.Project.DAL\bin\Debug\net8.0\Route.Project.DAL.pdb
+C:\D\Route\7.MVC Core\Route.Project.MVC\Route.Project.DAL\obj\Debug\net8.0\Route.Project.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\D\Route\7.MVC Core\Route.Project.MVC\Route.Project.DAL\obj\Debug\net8.0\Route.Project.DAL.AssemblyInfoInputs.cache
+C:\D\Route\7.MVC Core\Route.Project.MVC\Route.Project.DAL\obj\Debug\net8.0\Route.Project.DAL.AssemblyInfo.cs
+C:\D\Route\7.MVC Core\Route.Project.MVC\Route.Project.DAL\obj\Debug\net8.0\Route.Project.DAL.csproj.CoreCompileInputs.cache
+C:\D\Route\7.MVC Core\Route.Project.MVC\Route.Project.DAL\obj\Debug\net8.0\Route.Project.DAL.sourcelink.json
+C:\D\Route\7.MVC Core\Route.Project.MVC\Route.Project.DAL\obj\Debug\net8.0\Route.Project.DAL.dll
+C:\D\Route\7.MVC Core\Route.Project.MVC\Route.Project.DAL\obj\Debug\net8.0\refint\Route.Project.DAL.dll
+C:\D\Route\7.MVC Core\Route.Project.MVC\Route.Project.DAL\obj\Debug\net8.0\Route.Project.DAL.pdb
+C:\D\Route\7.MVC Core\Route.Project.MVC\Route.Project.DAL\obj\Debug\net8.0\ref\Route.Project.DAL.dll
+C:\D\Route\7.MVC Core\Route.Project.MVC\Route.Project.DAL\obj\Debug\net8.0\Route.Project.DAL.csproj.AssemblyReference.cache

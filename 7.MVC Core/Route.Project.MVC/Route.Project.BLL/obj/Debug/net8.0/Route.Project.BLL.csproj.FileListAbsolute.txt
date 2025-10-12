@@ -1,0 +1,16 @@
+C:\D\Route\7.MVC Core\Route.Project.MVC\Route.Project.BLL\bin\Debug\net8.0\Route.Project.BLL.deps.json
+C:\D\Route\7.MVC Core\Route.Project.MVC\Route.Project.BLL\bin\Debug\net8.0\Route.Project.BLL.dll
+C:\D\Route\7.MVC Core\Route.Project.MVC\Route.Project.BLL\bin\Debug\net8.0\Route.Project.BLL.pdb
+C:\D\Route\7.MVC Core\Route.Project.MVC\Route.Project.BLL\bin\Debug\net8.0\Route.Project.DAL.dll
+C:\D\Route\7.MVC Core\Route.Project.MVC\Route.Project.BLL\bin\Debug\net8.0\Route.Project.DAL.pdb
+C:\D\Route\7.MVC Core\Route.Project.MVC\Route.Project.BLL\obj\Debug\net8.0\Route.Project.BLL.csproj.AssemblyReference.cache
+C:\D\Route\7.MVC Core\Route.Project.MVC\Route.Project.BLL\obj\Debug\net8.0\Route.Project.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\D\Route\7.MVC Core\Route.Project.MVC\Route.Project.BLL\obj\Debug\net8.0\Route.Project.BLL.AssemblyInfoInputs.cache
+C:\D\Route\7.MVC Core\Route.Project.MVC\Route.Project.BLL\obj\Debug\net8.0\Route.Project.BLL.AssemblyInfo.cs
+C:\D\Route\7.MVC Core\Route.Project.MVC\Route.Project.BLL\obj\Debug\net8.0\Route.Project.BLL.csproj.CoreCompileInputs.cache
+C:\D\Route\7.MVC Core\Route.Project.MVC\Route.Project.BLL\obj\Debug\net8.0\Route.Project.BLL.sourcelink.json
+C:\D\Route\7.MVC Core\Route.Project.MVC\Route.Project.BLL\obj\Debug\net8.0\Route.Pr.B7E8CD51.Up2Date
+C:\D\Route\7.MVC Core\Route.Project.MVC\Route.Project.BLL\obj\Debug\net8.0\Route.Project.BLL.dll
+C:\D\Route\7.MVC Core\Route.Project.MVC\Route.Project.BLL\obj\Debug\net8.0\refint\Route.Project.BLL.dll
+C:\D\Route\7.MVC Core\Route.Project.MVC\Route.Project.BLL\obj\Debug\net8.0\Route.Project.BLL.pdb
+C:\D\Route\7.MVC Core\Route.Project.MVC\Route.Project.BLL\obj\Debug\net8.0\ref\Route.Project.BLL.dll

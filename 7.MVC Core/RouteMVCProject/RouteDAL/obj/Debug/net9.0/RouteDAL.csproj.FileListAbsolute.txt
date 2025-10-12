@@ -1,0 +1,13 @@
+C:\D\Route\7.MVC Core\RouteMVCProject\RouteDAL\bin\Debug\net9.0\RouteDAL.deps.json
+C:\D\Route\7.MVC Core\RouteMVCProject\RouteDAL\bin\Debug\net9.0\RouteDAL.dll
+C:\D\Route\7.MVC Core\RouteMVCProject\RouteDAL\bin\Debug\net9.0\RouteDAL.pdb
+C:\D\Route\7.MVC Core\RouteMVCProject\RouteDAL\obj\Debug\net9.0\RouteDAL.csproj.AssemblyReference.cache
+C:\D\Route\7.MVC Core\RouteMVCProject\RouteDAL\obj\Debug\net9.0\RouteDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\D\Route\7.MVC Core\RouteMVCProject\RouteDAL\obj\Debug\net9.0\RouteDAL.AssemblyInfoInputs.cache
+C:\D\Route\7.MVC Core\RouteMVCProject\RouteDAL\obj\Debug\net9.0\RouteDAL.AssemblyInfo.cs
+C:\D\Route\7.MVC Core\RouteMVCProject\RouteDAL\obj\Debug\net9.0\RouteDAL.csproj.CoreCompileInputs.cache
+C:\D\Route\7.MVC Core\RouteMVCProject\RouteDAL\obj\Debug\net9.0\RouteDAL.sourcelink.json
+C:\D\Route\7.MVC Core\RouteMVCProject\RouteDAL\obj\Debug\net9.0\RouteDAL.dll
+C:\D\Route\7.MVC Core\RouteMVCProject\RouteDAL\obj\Debug\net9.0\refint\RouteDAL.dll
+C:\D\Route\7.MVC Core\RouteMVCProject\RouteDAL\obj\Debug\net9.0\RouteDAL.pdb
+C:\D\Route\7.MVC Core\RouteMVCProject\RouteDAL\obj\Debug\net9.0\ref\RouteDAL.dll

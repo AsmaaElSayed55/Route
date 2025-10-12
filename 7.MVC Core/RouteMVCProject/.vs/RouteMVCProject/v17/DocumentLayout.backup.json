@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\D\\Route\\7.MVC Core\\RouteMVCProject\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D312F08F-C607-45B3-8B97-D7FEE4A2A3B1}|RouteProject\\RouteProject.csproj|c:\\d\\route\\7.mvc core\\routemvcproject\\routeproject\\viewmodels\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D312F08F-C607-45B3-8B97-D7FEE4A2A3B1}|RouteProject\\RouteProject.csproj|solutionrelative:routeproject\\viewmodels\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D312F08F-C607-45B3-8B97-D7FEE4A2A3B1}|RouteProject\\RouteProject.csproj|c:\\d\\route\\7.mvc core\\routemvcproject\\routeproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D312F08F-C607-45B3-8B97-D7FEE4A2A3B1}|RouteProject\\RouteProject.csproj|solutionrelative:routeproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\D\\Route\\7.MVC Core\\RouteMVCProject\\RouteProject\\ViewModels\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "RouteProject\\ViewModels\\ErrorViewModel.cs",
+              "ToolTip": "C:\\D\\Route\\7.MVC Core\\RouteMVCProject\\RouteProject\\ViewModels\\ErrorViewModel.cs*",
+              "RelativeToolTip": "RouteProject\\ViewModels\\ErrorViewModel.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T11:01:48.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\D\\Route\\7.MVC Core\\RouteMVCProject\\RouteProject\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "RouteProject\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\D\\Route\\7.MVC Core\\RouteMVCProject\\RouteProject\\Controllers\\HomeController.cs*",
+              "RelativeToolTip": "RouteProject\\Controllers\\HomeController.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwBEAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T10:57:40.277Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

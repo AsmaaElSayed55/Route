@@ -1,3 +1,6 @@
+using Microsoft.EntityFrameworkCore;
+using RouteDAL.Data.Contexts;
+
 namespace RouteProject
 {
     public class Program
@@ -8,6 +11,18 @@ namespace RouteProject
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
+
+            #region Configure  Services
+
+            builder.Services.AddDbContext<ApplicationDbContext>(
+                options => { options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")); }
+                );
+            // Register To Services In DI Container 
+
+
+            #endregion
+
+
 
             var app = builder.Build();
 

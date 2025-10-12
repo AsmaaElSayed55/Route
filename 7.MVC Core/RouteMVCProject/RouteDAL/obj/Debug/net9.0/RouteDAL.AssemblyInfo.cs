@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RouteDAL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2fd4d6bdb333d54a150c7316d97a4615915b282f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+16f4b1d92c319d7f9f8f6fef6efd9bcde9cba09f")]
 [assembly: System.Reflection.AssemblyProductAttribute("RouteDAL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RouteDAL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

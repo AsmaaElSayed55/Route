@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\D\\Route\\7.MVC Core\\Route.Project.MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F01108D-9F0E-4DE2-BCE1-02B0E8B4D570}|Route.Project.DAL\\Route.Project.DAL.csproj|c:\\d\\route\\7.mvc core\\route.project.mvc\\route.project.dal\\data\\contexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F01108D-9F0E-4DE2-BCE1-02B0E8B4D570}|Route.Project.DAL\\Route.Project.DAL.csproj|solutionrelative:route.project.dal\\data\\contexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F01108D-9F0E-4DE2-BCE1-02B0E8B4D570}|Route.Project.DAL\\Route.Project.DAL.csproj|c:\\d\\route\\7.mvc core\\route.project.mvc\\route.project.dal\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F01108D-9F0E-4DE2-BCE1-02B0E8B4D570}|Route.Project.DAL\\Route.Project.DAL.csproj|solutionrelative:route.project.dal\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F01108D-9F0E-4DE2-BCE1-02B0E8B4D570}|Route.Project.DAL\\Route.Project.DAL.csproj|c:\\d\\route\\7.mvc core\\route.project.mvc\\route.project.dal\\data\\configurations\\departmentconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F01108D-9F0E-4DE2-BCE1-02B0E8B4D570}|Route.Project.DAL\\Route.Project.DAL.csproj|solutionrelative:route.project.dal\\data\\configurations\\departmentconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F01108D-9F0E-4DE2-BCE1-02B0E8B4D570}|Route.Project.DAL\\Route.Project.DAL.csproj|c:\\d\\route\\7.mvc core\\route.project.mvc\\route.project.dal\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F01108D-9F0E-4DE2-BCE1-02B0E8B4D570}|Route.Project.DAL\\Route.Project.DAL.csproj|solutionrelative:route.project.dal\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F01108D-9F0E-4DE2-BCE1-02B0E8B4D570}|Route.Project.DAL\\Route.Project.DAL.csproj|c:\\d\\route\\7.mvc core\\route.project.mvc\\route.project.dal\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F01108D-9F0E-4DE2-BCE1-02B0E8B4D570}|Route.Project.DAL\\Route.Project.DAL.csproj|solutionrelative:route.project.dal\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27004C92-788B-4CC8-AB95-5A08BBA35616}|Route.Project.PL\\Route.Project.PL.csproj|c:\\d\\route\\7.mvc core\\route.project.mvc\\route.project.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27004C92-788B-4CC8-AB95-5A08BBA35616}|Route.Project.PL\\Route.Project.PL.csproj|solutionrelative:route.project.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27004C92-788B-4CC8-AB95-5A08BBA35616}|Route.Project.PL\\Route.Project.PL.csproj|c:\\d\\route\\7.mvc core\\route.project.mvc\\route.project.pl\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27004C92-788B-4CC8-AB95-5A08BBA35616}|Route.Project.PL\\Route.Project.PL.csproj|solutionrelative:route.project.pl\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "C:\\D\\Route\\7.MVC Core\\Route.Project.MVC\\Route.Project.DAL\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "Route.Project.DAL\\GlobalUsings.cs",
+              "ToolTip": "C:\\D\\Route\\7.MVC Core\\Route.Project.MVC\\Route.Project.DAL\\GlobalUsings.cs",
+              "RelativeToolTip": "Route.Project.DAL\\GlobalUsings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T12:47:28.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\D\\Route\\7.MVC Core\\Route.Project.MVC\\Route.Project.DAL\\Data\\Contexts\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Route.Project.DAL\\Data\\Contexts\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\D\\Route\\7.MVC Core\\Route.Project.MVC\\Route.Project.DAL\\Data\\Contexts\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Route.Project.DAL\\Data\\Contexts\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T12:22:44.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DepartmentConfigurations.cs",
+              "DocumentMoniker": "C:\\D\\Route\\7.MVC Core\\Route.Project.MVC\\Route.Project.DAL\\Data\\Configurations\\DepartmentConfigurations.cs",
+              "RelativeDocumentMoniker": "Route.Project.DAL\\Data\\Configurations\\DepartmentConfigurations.cs",
+              "ToolTip": "C:\\D\\Route\\7.MVC Core\\Route.Project.MVC\\Route.Project.DAL\\Data\\Configurations\\DepartmentConfigurations.cs",
+              "RelativeToolTip": "Route.Project.DAL\\Data\\Configurations\\DepartmentConfigurations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T12:06:51.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\D\\Route\\7.MVC Core\\Route.Project.MVC\\Route.Project.DAL\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Route.Project.DAL\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\D\\Route\\7.MVC Core\\Route.Project.MVC\\Route.Project.DAL\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "Route.Project.DAL\\Models\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T10:11:41.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\D\\Route\\7.MVC Core\\Route.Project.MVC\\Route.Project.DAL\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Route.Project.DAL\\Models\\Department.cs",
+              "ToolTip": "C:\\D\\Route\\7.MVC Core\\Route.Project.MVC\\Route.Project.DAL\\Models\\Department.cs",
+              "RelativeToolTip": "Route.Project.DAL\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T08:52:43.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\D\\Route\\7.MVC Core\\Route.Project.MVC\\Route.Project.PL\\Program.cs",
+              "RelativeDocumentMoniker": "Route.Project.PL\\Program.cs",
+              "ToolTip": "C:\\D\\Route\\7.MVC Core\\Route.Project.MVC\\Route.Project.PL\\Program.cs",
+              "RelativeToolTip": "Route.Project.PL\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAQwCoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T07:42:03.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\D\\Route\\7.MVC Core\\Route.Project.MVC\\Route.Project.PL\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Route.Project.PL\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\D\\Route\\7.MVC Core\\Route.Project.MVC\\Route.Project.PL\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Route.Project.PL\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-06T07:35:41.199Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

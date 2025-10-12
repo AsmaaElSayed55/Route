@@ -1,0 +1,16 @@
+C:\D\Route\7.MVC Core\RouteMVCProject\RouteBLL\bin\Debug\net9.0\RouteBLL.deps.json
+C:\D\Route\7.MVC Core\RouteMVCProject\RouteBLL\bin\Debug\net9.0\RouteBLL.dll
+C:\D\Route\7.MVC Core\RouteMVCProject\RouteBLL\bin\Debug\net9.0\RouteBLL.pdb
+C:\D\Route\7.MVC Core\RouteMVCProject\RouteBLL\bin\Debug\net9.0\RouteDAL.dll
+C:\D\Route\7.MVC Core\RouteMVCProject\RouteBLL\bin\Debug\net9.0\RouteDAL.pdb
+C:\D\Route\7.MVC Core\RouteMVCProject\RouteBLL\obj\Debug\net9.0\RouteBLL.csproj.AssemblyReference.cache
+C:\D\Route\7.MVC Core\RouteMVCProject\RouteBLL\obj\Debug\net9.0\RouteBLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\D\Route\7.MVC Core\RouteMVCProject\RouteBLL\obj\Debug\net9.0\RouteBLL.AssemblyInfoInputs.cache
+C:\D\Route\7.MVC Core\RouteMVCProject\RouteBLL\obj\Debug\net9.0\RouteBLL.AssemblyInfo.cs
+C:\D\Route\7.MVC Core\RouteMVCProject\RouteBLL\obj\Debug\net9.0\RouteBLL.csproj.CoreCompileInputs.cache
+C:\D\Route\7.MVC Core\RouteMVCProject\RouteBLL\obj\Debug\net9.0\RouteBLL.sourcelink.json
+C:\D\Route\7.MVC Core\RouteMVCProject\RouteBLL\obj\Debug\net9.0\RouteBLL.csproj.Up2Date
+C:\D\Route\7.MVC Core\RouteMVCProject\RouteBLL\obj\Debug\net9.0\RouteBLL.dll
+C:\D\Route\7.MVC Core\RouteMVCProject\RouteBLL\obj\Debug\net9.0\refint\RouteBLL.dll
+C:\D\Route\7.MVC Core\RouteMVCProject\RouteBLL\obj\Debug\net9.0\RouteBLL.pdb
+C:\D\Route\7.MVC Core\RouteMVCProject\RouteBLL\obj\Debug\net9.0\ref\RouteBLL.dll

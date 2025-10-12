@@ -15,6 +15,7 @@ namespace RouteProject.Controllers
 
         public IActionResult Index()
         {
+            _logger.LogInformation($"Now I Am In The Index");
             return View();
         }
 

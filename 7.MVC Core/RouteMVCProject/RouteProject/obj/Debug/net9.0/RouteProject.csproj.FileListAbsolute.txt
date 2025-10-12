@@ -1,0 +1,10 @@
+C:\D\Route\7.MVC Core\RouteMVCProject\RouteProject\obj\Debug\net9.0\RouteProject.csproj.AssemblyReference.cache
+C:\D\Route\7.MVC Core\RouteMVCProject\RouteProject\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\D\Route\7.MVC Core\RouteMVCProject\RouteProject\obj\Debug\net9.0\RouteProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\D\Route\7.MVC Core\RouteMVCProject\RouteProject\obj\Debug\net9.0\RouteProject.AssemblyInfoInputs.cache
+C:\D\Route\7.MVC Core\RouteMVCProject\RouteProject\obj\Debug\net9.0\RouteProject.AssemblyInfo.cs
+C:\D\Route\7.MVC Core\RouteMVCProject\RouteProject\obj\Debug\net9.0\RouteProject.csproj.CoreCompileInputs.cache
+C:\D\Route\7.MVC Core\RouteMVCProject\RouteProject\obj\Debug\net9.0\RouteProject.MvcApplicationPartsAssemblyInfo.cache
+C:\D\Route\7.MVC Core\RouteMVCProject\RouteProject\obj\Debug\net9.0\RouteProject.RazorAssemblyInfo.cache
+C:\D\Route\7.MVC Core\RouteMVCProject\RouteProject\obj\Debug\net9.0\RouteProject.RazorAssemblyInfo.cs
+C:\D\Route\7.MVC Core\RouteMVCProject\RouteProject\obj\Debug\net9.0\RouteProject.sourcelink.json
