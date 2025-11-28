@@ -4,6 +4,9 @@ namespace E_Commerce.Controllers
 {
     [ApiController]
     [Route("[controller]")]
+    // Inherit ControllerBase
+    // API Controller => Inherit from ControllerBase
+    // MVC Controller => Inherit from Controller ==> Inherit form ControllerBase
     public class WeatherForecastController : ControllerBase
     {
         private static readonly string[] Summaries = new[]

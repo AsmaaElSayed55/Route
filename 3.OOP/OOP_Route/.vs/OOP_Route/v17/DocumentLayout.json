@@ -1,50 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\D\\Route\\OOP\\OOP_Route\\",
+  "WorkspaceRootPath": "C:\\D\\Route\\3.OOP\\OOP_Route\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B8F95B03-362F-485B-A88B-C47F035F9F16}|Assignment Three\\Assignment Three.csproj|c:\\d\\route\\oop\\oop_route\\assignment three\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8F95B03-362F-485B-A88B-C47F035F9F16}|Assignment Three\\Assignment Three.csproj|solutionrelative:assignment three\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E20A68B2-6173-4664-A7AC-28B2FE5F0F41}|Assignment Five\\Assignment Five.csproj|c:\\d\\route\\3.oop\\oop_route\\assignment five\\duration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E20A68B2-6173-4664-A7AC-28B2FE5F0F41}|Assignment Five\\Assignment Five.csproj|solutionrelative:assignment five\\duration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{091B4070-4F01-4D4A-A93A-64A01E20C404}|Assignment Two\\Assignment Two.csproj|c:\\d\\route\\oop\\oop_route\\assignment two\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{091B4070-4F01-4D4A-A93A-64A01E20C404}|Assignment Two\\Assignment Two.csproj|solutionrelative:assignment two\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{091B4070-4F01-4D4A-A93A-64A01E20C404}|Assignment Two\\Assignment Two.csproj|c:\\d\\route\\oop\\oop_route\\assignment two\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{091B4070-4F01-4D4A-A93A-64A01E20C404}|Assignment Two\\Assignment Two.csproj|solutionrelative:assignment two\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{091B4070-4F01-4D4A-A93A-64A01E20C404}|Assignment Two\\Assignment Two.csproj|c:\\d\\route\\oop\\oop_route\\assignment two\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{091B4070-4F01-4D4A-A93A-64A01E20C404}|Assignment Two\\Assignment Two.csproj|solutionrelative:assignment two\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4733F62-187A-4F5A-BC00-EB51746FD967}|Assignment One\\Assignment One.csproj|c:\\d\\route\\oop\\oop_route\\assignment one\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4733F62-187A-4F5A-BC00-EB51746FD967}|Assignment One\\Assignment One.csproj|solutionrelative:assignment one\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4733F62-187A-4F5A-BC00-EB51746FD967}|Assignment One\\Assignment One.csproj|c:\\d\\route\\oop\\oop_route\\assignment one\\weekdays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4733F62-187A-4F5A-BC00-EB51746FD967}|Assignment One\\Assignment One.csproj|solutionrelative:assignment one\\weekdays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4733F62-187A-4F5A-BC00-EB51746FD967}|Assignment One\\Assignment One.csproj|c:\\d\\route\\oop\\oop_route\\assignment one\\season.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4733F62-187A-4F5A-BC00-EB51746FD967}|Assignment One\\Assignment One.csproj|solutionrelative:assignment one\\season.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4733F62-187A-4F5A-BC00-EB51746FD967}|Assignment One\\Assignment One.csproj|c:\\d\\route\\oop\\oop_route\\assignment one\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4733F62-187A-4F5A-BC00-EB51746FD967}|Assignment One\\Assignment One.csproj|solutionrelative:assignment one\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4733F62-187A-4F5A-BC00-EB51746FD967}|Assignment One\\Assignment One.csproj|c:\\d\\route\\oop\\oop_route\\assignment one\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4733F62-187A-4F5A-BC00-EB51746FD967}|Assignment One\\Assignment One.csproj|solutionrelative:assignment one\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4733F62-187A-4F5A-BC00-EB51746FD967}|Assignment One\\Assignment One.csproj|c:\\d\\route\\oop\\oop_route\\assignment one\\permissions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4733F62-187A-4F5A-BC00-EB51746FD967}|Assignment One\\Assignment One.csproj|solutionrelative:assignment one\\permissions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4733F62-187A-4F5A-BC00-EB51746FD967}|Assignment One\\Assignment One.csproj|c:\\d\\route\\oop\\oop_route\\assignment one\\colors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4733F62-187A-4F5A-BC00-EB51746FD967}|Assignment One\\Assignment One.csproj|solutionrelative:assignment one\\colors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E20A68B2-6173-4664-A7AC-28B2FE5F0F41}|Assignment Five\\Assignment Five.csproj|c:\\d\\route\\3.oop\\oop_route\\assignment five\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E20A68B2-6173-4664-A7AC-28B2FE5F0F41}|Assignment Five\\Assignment Five.csproj|solutionrelative:assignment five\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -59,136 +23,28 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\D\\Route\\OOP\\OOP_Route\\Assignment Three\\Program.cs",
-              "RelativeDocumentMoniker": "Assignment Three\\Program.cs",
-              "ToolTip": "C:\\D\\Route\\OOP\\OOP_Route\\Assignment Three\\Program.cs",
-              "RelativeToolTip": "Assignment Three\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Title": "Duration.cs",
+              "DocumentMoniker": "C:\\D\\Route\\3.OOP\\OOP_Route\\Assignment Five\\Duration.cs",
+              "RelativeDocumentMoniker": "Assignment Five\\Duration.cs",
+              "ToolTip": "C:\\D\\Route\\3.OOP\\OOP_Route\\Assignment Five\\Duration.cs",
+              "RelativeToolTip": "Assignment Five\\Duration.cs",
+              "ViewState": "AgIAAKEAAAAAAAAAAAA3wLYAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T16:12:49.771Z",
+              "WhenOpened": "2025-11-28T03:14:16.674Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\D\\Route\\OOP\\OOP_Route\\Assignment Two\\Program.cs",
-              "RelativeDocumentMoniker": "Assignment Two\\Program.cs",
-              "ToolTip": "C:\\D\\Route\\OOP\\OOP_Route\\Assignment Two\\Program.cs",
-              "RelativeToolTip": "Assignment Two\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\D\\Route\\3.OOP\\OOP_Route\\Assignment Five\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment Five\\Program.cs",
+              "ToolTip": "C:\\D\\Route\\3.OOP\\OOP_Route\\Assignment Five\\Program.cs",
+              "RelativeToolTip": "Assignment Five\\Program.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAqwIsAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T15:56:25.17Z",
+              "WhenOpened": "2025-11-24T01:47:24.102Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\D\\Route\\OOP\\OOP_Route\\Assignment Two\\Employee.cs",
-              "RelativeDocumentMoniker": "Assignment Two\\Employee.cs",
-              "ToolTip": "C:\\D\\Route\\OOP\\OOP_Route\\Assignment Two\\Employee.cs",
-              "RelativeToolTip": "Assignment Two\\Employee.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAiwCAAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T15:57:03.512Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Gender.cs",
-              "DocumentMoniker": "C:\\D\\Route\\OOP\\OOP_Route\\Assignment Two\\Gender.cs",
-              "RelativeDocumentMoniker": "Assignment Two\\Gender.cs",
-              "ToolTip": "C:\\D\\Route\\OOP\\OOP_Route\\Assignment Two\\Gender.cs",
-              "RelativeToolTip": "Assignment Two\\Gender.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T15:58:19.413Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "WeekDays.cs",
-              "DocumentMoniker": "C:\\D\\Route\\OOP\\OOP_Route\\Assignment One\\WeekDays.cs",
-              "RelativeDocumentMoniker": "Assignment One\\WeekDays.cs",
-              "ToolTip": "C:\\D\\Route\\OOP\\OOP_Route\\Assignment One\\WeekDays.cs",
-              "RelativeToolTip": "Assignment One\\WeekDays.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T15:54:47.659Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Season.cs",
-              "DocumentMoniker": "C:\\D\\Route\\OOP\\OOP_Route\\Assignment One\\Season.cs",
-              "RelativeDocumentMoniker": "Assignment One\\Season.cs",
-              "ToolTip": "C:\\D\\Route\\OOP\\OOP_Route\\Assignment One\\Season.cs",
-              "RelativeToolTip": "Assignment One\\Season.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T15:54:04.724Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Point.cs",
-              "DocumentMoniker": "C:\\D\\Route\\OOP\\OOP_Route\\Assignment One\\Point.cs",
-              "RelativeDocumentMoniker": "Assignment One\\Point.cs",
-              "ToolTip": "C:\\D\\Route\\OOP\\OOP_Route\\Assignment One\\Point.cs",
-              "RelativeToolTip": "Assignment One\\Point.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T15:53:20.118Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\D\\Route\\OOP\\OOP_Route\\Assignment One\\Program.cs",
-              "RelativeDocumentMoniker": "Assignment One\\Program.cs",
-              "ToolTip": "C:\\D\\Route\\OOP\\OOP_Route\\Assignment One\\Program.cs",
-              "RelativeToolTip": "Assignment One\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T15:50:05.221Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Person.cs",
-              "DocumentMoniker": "C:\\D\\Route\\OOP\\OOP_Route\\Assignment One\\Person.cs",
-              "RelativeDocumentMoniker": "Assignment One\\Person.cs",
-              "ToolTip": "C:\\D\\Route\\OOP\\OOP_Route\\Assignment One\\Person.cs",
-              "RelativeToolTip": "Assignment One\\Person.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T15:52:38.467Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Permissions.cs",
-              "DocumentMoniker": "C:\\D\\Route\\OOP\\OOP_Route\\Assignment One\\Permissions.cs",
-              "RelativeDocumentMoniker": "Assignment One\\Permissions.cs",
-              "ToolTip": "C:\\D\\Route\\OOP\\OOP_Route\\Assignment One\\Permissions.cs",
-              "RelativeToolTip": "Assignment One\\Permissions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T15:51:52.314Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Colors.cs",
-              "DocumentMoniker": "C:\\D\\Route\\OOP\\OOP_Route\\Assignment One\\Colors.cs",
-              "RelativeDocumentMoniker": "Assignment One\\Colors.cs",
-              "ToolTip": "C:\\D\\Route\\OOP\\OOP_Route\\Assignment One\\Colors.cs",
-              "RelativeToolTip": "Assignment One\\Colors.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T15:51:04.881Z"
             }
           ]
         }
