@@ -1,0 +1,15 @@
+C:\D\Route\4.Advanced C#\Advanced-C#_Route\Assignment_One\bin\Debug\net9.0\Assignment_One.exe
+C:\D\Route\4.Advanced C#\Advanced-C#_Route\Assignment_One\bin\Debug\net9.0\Assignment_One.deps.json
+C:\D\Route\4.Advanced C#\Advanced-C#_Route\Assignment_One\bin\Debug\net9.0\Assignment_One.runtimeconfig.json
+C:\D\Route\4.Advanced C#\Advanced-C#_Route\Assignment_One\bin\Debug\net9.0\Assignment_One.dll
+C:\D\Route\4.Advanced C#\Advanced-C#_Route\Assignment_One\bin\Debug\net9.0\Assignment_One.pdb
+C:\D\Route\4.Advanced C#\Advanced-C#_Route\Assignment_One\obj\Debug\net9.0\Assignment_One.GeneratedMSBuildEditorConfig.editorconfig
+C:\D\Route\4.Advanced C#\Advanced-C#_Route\Assignment_One\obj\Debug\net9.0\Assignment_One.AssemblyInfoInputs.cache
+C:\D\Route\4.Advanced C#\Advanced-C#_Route\Assignment_One\obj\Debug\net9.0\Assignment_One.AssemblyInfo.cs
+C:\D\Route\4.Advanced C#\Advanced-C#_Route\Assignment_One\obj\Debug\net9.0\Assignment_One.csproj.CoreCompileInputs.cache
+C:\D\Route\4.Advanced C#\Advanced-C#_Route\Assignment_One\obj\Debug\net9.0\Assignment_One.sourcelink.json
+C:\D\Route\4.Advanced C#\Advanced-C#_Route\Assignment_One\obj\Debug\net9.0\Assignment_One.dll
+C:\D\Route\4.Advanced C#\Advanced-C#_Route\Assignment_One\obj\Debug\net9.0\refint\Assignment_One.dll
+C:\D\Route\4.Advanced C#\Advanced-C#_Route\Assignment_One\obj\Debug\net9.0\Assignment_One.pdb
+C:\D\Route\4.Advanced C#\Advanced-C#_Route\Assignment_One\obj\Debug\net9.0\Assignment_One.genruntimeconfig.cache
+C:\D\Route\4.Advanced C#\Advanced-C#_Route\Assignment_One\obj\Debug\net9.0\ref\Assignment_One.dll
