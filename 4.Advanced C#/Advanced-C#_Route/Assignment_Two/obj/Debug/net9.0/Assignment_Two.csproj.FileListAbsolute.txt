@@ -1,0 +1,15 @@
+C:\D\Route\4.Advanced C#\Advanced-C#_Route\Assignment_Two\bin\Debug\net9.0\Assignment_Two.exe
+C:\D\Route\4.Advanced C#\Advanced-C#_Route\Assignment_Two\bin\Debug\net9.0\Assignment_Two.deps.json
+C:\D\Route\4.Advanced C#\Advanced-C#_Route\Assignment_Two\bin\Debug\net9.0\Assignment_Two.runtimeconfig.json
+C:\D\Route\4.Advanced C#\Advanced-C#_Route\Assignment_Two\bin\Debug\net9.0\Assignment_Two.dll
+C:\D\Route\4.Advanced C#\Advanced-C#_Route\Assignment_Two\bin\Debug\net9.0\Assignment_Two.pdb
+C:\D\Route\4.Advanced C#\Advanced-C#_Route\Assignment_Two\obj\Debug\net9.0\Assignment_Two.GeneratedMSBuildEditorConfig.editorconfig
+C:\D\Route\4.Advanced C#\Advanced-C#_Route\Assignment_Two\obj\Debug\net9.0\Assignment_Two.AssemblyInfoInputs.cache
+C:\D\Route\4.Advanced C#\Advanced-C#_Route\Assignment_Two\obj\Debug\net9.0\Assignment_Two.AssemblyInfo.cs
+C:\D\Route\4.Advanced C#\Advanced-C#_Route\Assignment_Two\obj\Debug\net9.0\Assignment_Two.csproj.CoreCompileInputs.cache
+C:\D\Route\4.Advanced C#\Advanced-C#_Route\Assignment_Two\obj\Debug\net9.0\Assignment_Two.sourcelink.json
+C:\D\Route\4.Advanced C#\Advanced-C#_Route\Assignment_Two\obj\Debug\net9.0\Assignment_Two.dll
+C:\D\Route\4.Advanced C#\Advanced-C#_Route\Assignment_Two\obj\Debug\net9.0\refint\Assignment_Two.dll
+C:\D\Route\4.Advanced C#\Advanced-C#_Route\Assignment_Two\obj\Debug\net9.0\Assignment_Two.pdb
+C:\D\Route\4.Advanced C#\Advanced-C#_Route\Assignment_Two\obj\Debug\net9.0\Assignment_Two.genruntimeconfig.cache
+C:\D\Route\4.Advanced C#\Advanced-C#_Route\Assignment_Two\obj\Debug\net9.0\ref\Assignment_Two.dll

@@ -3,8 +3,10 @@
   "WorkspaceRootPath": "C:\\D\\Route\\5.LINQ\\LINQ_Route\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7D1AB45F-CE1D-4E69-A291-C0719E9E7815}|Assignment One\\Assignment One.csproj|c:\\d\\route\\5.linq\\linq_route\\assignment one\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D1AB45F-CE1D-4E69-A291-C0719E9E7815}|Assignment One\\Assignment One.csproj|solutionrelative:assignment one\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{29AA45C9-F2A0-B156-7E62-072A77E7AE3C}|..\\..\\..\\Backend.Net\\5.LINQ\\LINQ\\Session_One\\Session_One.csproj|c:\\d\\backend.net\\5.linq\\linq\\session_one\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29AA45C9-F2A0-B156-7E62-072A77E7AE3C}|..\\..\\..\\Backend.Net\\5.LINQ\\LINQ\\Session_One\\Session_One.csproj|c:\\d\\backend.net\\5.linq\\linq\\session_one\\data\\productequalitycomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +16,35 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductEqualityComparer.cs",
+              "DocumentMoniker": "C:\\D\\Backend.Net\\5.LINQ\\LINQ\\Session_One\\Data\\ProductEqualityComparer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Backend.Net\\5.LINQ\\LINQ\\Session_One\\Data\\ProductEqualityComparer.cs",
+              "ToolTip": "C:\\D\\Backend.Net\\5.LINQ\\LINQ\\Session_One\\Data\\ProductEqualityComparer.cs",
+              "RelativeToolTip": "..\\..\\..\\Backend.Net\\5.LINQ\\LINQ\\Session_One\\Data\\ProductEqualityComparer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T08:59:14.03Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\D\\Route\\5.LINQ\\LINQ_Route\\Assignment One\\Program.cs",
-              "RelativeDocumentMoniker": "Assignment One\\Program.cs",
-              "ToolTip": "C:\\D\\Route\\5.LINQ\\LINQ_Route\\Assignment One\\Program.cs",
-              "RelativeToolTip": "Assignment One\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\D\\Backend.Net\\5.LINQ\\LINQ\\Session_One\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Backend.Net\\5.LINQ\\LINQ\\Session_One\\Program.cs",
+              "ToolTip": "C:\\D\\Backend.Net\\5.LINQ\\LINQ\\Session_One\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\Backend.Net\\5.LINQ\\LINQ\\Session_One\\Program.cs",
+              "ViewState": "AgIAAOwDAAAAAAAAAAAuwJEEAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T04:31:25.264Z",
+              "WhenOpened": "2026-04-05T15:47:58.515Z",
               "EditorCaption": ""
             }
           ]
