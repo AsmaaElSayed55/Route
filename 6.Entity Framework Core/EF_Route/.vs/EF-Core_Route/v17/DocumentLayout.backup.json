@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "C:\\D\\Route\\6.Entity Framework Core\\EF_Route\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4A8D07BD-A7D1-47F6-9EE7-100AFAC91AD7}|EF Session one\\EF Session one.csproj|c:\\d\\route\\6.entity framework core\\ef_route\\ef session one\\data\\models\\companydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A8D07BD-A7D1-47F6-9EE7-100AFAC91AD7}|EF Session one\\EF Session one.csproj|solutionrelative:ef session one\\data\\models\\companydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6EA4229E-F163-4F4C-B188-FCABADF54D21}|SessionOne\\SessionOne.csproj|c:\\d\\route\\6.entity framework core\\ef_route\\sessionone\\data\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA4229E-F163-4F4C-B188-FCABADF54D21}|SessionOne\\SessionOne.csproj|solutionrelative:sessionone\\data\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A8D07BD-A7D1-47F6-9EE7-100AFAC91AD7}|EF Session one\\EF Session one.csproj|c:\\d\\route\\6.entity framework core\\ef_route\\ef session one\\data\\models\\empolyee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A8D07BD-A7D1-47F6-9EE7-100AFAC91AD7}|EF Session one\\EF Session one.csproj|solutionrelative:ef session one\\data\\models\\empolyee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6EA4229E-F163-4F4C-B188-FCABADF54D21}|SessionOne\\SessionOne.csproj|c:\\d\\route\\6.entity framework core\\ef_route\\sessionone\\data\\mycompanydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA4229E-F163-4F4C-B188-FCABADF54D21}|SessionOne\\SessionOne.csproj|solutionrelative:sessionone\\data\\mycompanydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA4229E-F163-4F4C-B188-FCABADF54D21}|SessionOne\\SessionOne.csproj|c:\\d\\route\\6.entity framework core\\ef_route\\sessionone\\data\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA4229E-F163-4F4C-B188-FCABADF54D21}|SessionOne\\SessionOne.csproj|solutionrelative:sessionone\\data\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA4229E-F163-4F4C-B188-FCABADF54D21}|SessionOne\\SessionOne.csproj|c:\\d\\route\\6.entity framework core\\ef_route\\sessionone\\data\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA4229E-F163-4F4C-B188-FCABADF54D21}|SessionOne\\SessionOne.csproj|solutionrelative:sessionone\\data\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA4229E-F163-4F4C-B188-FCABADF54D21}|SessionOne\\SessionOne.csproj|c:\\d\\route\\6.entity framework core\\ef_route\\sessionone\\data\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA4229E-F163-4F4C-B188-FCABADF54D21}|SessionOne\\SessionOne.csproj|solutionrelative:sessionone\\data\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\D\\Route\\6.Entity Framework Core\\EF_Route\\SessionOne\\Data\\Migrations\\20260410205802_Initial_Create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SessionOne\\Data\\Migrations\\20260410205802_Initial_Create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA4229E-F163-4F4C-B188-FCABADF54D21}|SessionOne\\SessionOne.csproj|c:\\d\\route\\6.entity framework core\\ef_route\\sessionone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA4229E-F163-4F4C-B188-FCABADF54D21}|SessionOne\\SessionOne.csproj|solutionrelative:sessionone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,28 +41,96 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Empolyee.cs",
-              "DocumentMoniker": "C:\\D\\Route\\6.Entity Framework Core\\EF_Route\\EF Session one\\Data\\Models\\Empolyee.cs",
-              "RelativeDocumentMoniker": "EF Session one\\Data\\Models\\Empolyee.cs",
-              "ToolTip": "C:\\D\\Route\\6.Entity Framework Core\\EF_Route\\EF Session one\\Data\\Models\\Empolyee.cs",
-              "RelativeToolTip": "EF Session one\\Data\\Models\\Empolyee.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAwC4AAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T20:45:27.887Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CompanyDbContext.cs",
-              "DocumentMoniker": "C:\\D\\Route\\6.Entity Framework Core\\EF_Route\\EF Session one\\Data\\Models\\CompanyDbContext.cs",
-              "RelativeDocumentMoniker": "EF Session one\\Data\\Models\\CompanyDbContext.cs",
-              "ToolTip": "C:\\D\\Route\\6.Entity Framework Core\\EF_Route\\EF Session one\\Data\\Models\\CompanyDbContext.cs",
-              "RelativeToolTip": "EF Session one\\Data\\Models\\CompanyDbContext.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAwBwAAAAAAAAAAAAAAA==",
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\D\\Route\\6.Entity Framework Core\\EF_Route\\SessionOne\\Data\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "SessionOne\\Data\\Models\\Employee.cs",
+              "ToolTip": "C:\\D\\Route\\6.Entity Framework Core\\EF_Route\\SessionOne\\Data\\Models\\Employee.cs*",
+              "RelativeToolTip": "SessionOne\\Data\\Models\\Employee.cs*",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAwwCIAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T16:12:31.865Z",
+              "WhenOpened": "2026-04-09T21:35:07.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyCompanyDbContext.cs",
+              "DocumentMoniker": "C:\\D\\Route\\6.Entity Framework Core\\EF_Route\\SessionOne\\Data\\MyCompanyDbContext.cs",
+              "RelativeDocumentMoniker": "SessionOne\\Data\\MyCompanyDbContext.cs",
+              "ToolTip": "C:\\D\\Route\\6.Entity Framework Core\\EF_Route\\SessionOne\\Data\\MyCompanyDbContext.cs",
+              "RelativeToolTip": "SessionOne\\Data\\MyCompanyDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T21:39:57.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\D\\Route\\6.Entity Framework Core\\EF_Route\\SessionOne\\Data\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "SessionOne\\Data\\Models\\Product.cs",
+              "ToolTip": "C:\\D\\Route\\6.Entity Framework Core\\EF_Route\\SessionOne\\Data\\Models\\Product.cs",
+              "RelativeToolTip": "SessionOne\\Data\\Models\\Product.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAEBVwAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T21:27:47.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\D\\Route\\6.Entity Framework Core\\EF_Route\\SessionOne\\Data\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "SessionOne\\Data\\Models\\Department.cs",
+              "ToolTip": "C:\\D\\Route\\6.Entity Framework Core\\EF_Route\\SessionOne\\Data\\Models\\Department.cs",
+              "RelativeToolTip": "SessionOne\\Data\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T21:27:05.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\D\\Route\\6.Entity Framework Core\\EF_Route\\SessionOne\\Data\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "SessionOne\\Data\\Models\\Project.cs",
+              "ToolTip": "C:\\D\\Route\\6.Entity Framework Core\\EF_Route\\SessionOne\\Data\\Models\\Project.cs",
+              "RelativeToolTip": "SessionOne\\Data\\Models\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T21:28:15.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20260410205802_Initial_Create.cs",
+              "DocumentMoniker": "C:\\D\\Route\\6.Entity Framework Core\\EF_Route\\SessionOne\\Data\\Migrations\\20260410205802_Initial_Create.cs",
+              "RelativeDocumentMoniker": "SessionOne\\Data\\Migrations\\20260410205802_Initial_Create.cs",
+              "ToolTip": "C:\\D\\Route\\6.Entity Framework Core\\EF_Route\\SessionOne\\Data\\Migrations\\20260410205802_Initial_Create.cs",
+              "RelativeToolTip": "SessionOne\\Data\\Migrations\\20260410205802_Initial_Create.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T20:58:02.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\D\\Route\\6.Entity Framework Core\\EF_Route\\SessionOne\\Program.cs",
+              "RelativeDocumentMoniker": "SessionOne\\Program.cs",
+              "ToolTip": "C:\\D\\Route\\6.Entity Framework Core\\EF_Route\\SessionOne\\Program.cs",
+              "RelativeToolTip": "SessionOne\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T21:31:19.347Z",
               "EditorCaption": ""
             }
           ]
